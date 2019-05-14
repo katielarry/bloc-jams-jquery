@@ -22,6 +22,7 @@ Problem:
 The goal of BlocJams was to learn as much as I could about Frontend development by creating a working music player from scratch. In order to create this music player, I had to become comfortable with concepts I hadn’t worked with before:
 
 -Git & GitHub
+
 -JavaScript, DOM Scripting, jQuery
 
 Solution:
