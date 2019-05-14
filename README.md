@@ -1,7 +1,7 @@
 # bloc-jams-jquery
 A starter project for Bloc's jQuery-driven music player app
 
-<h1>Bloc Jams</h1>
+<h1>BlocJams</h1>
 
 Bloc Jams is a JavaScript music player.
 
