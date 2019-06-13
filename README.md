@@ -1,5 +1,5 @@
 
-![](https://drive.google.com/file/d/1XSV0mzGiehHuYSqTZaEDTRngJuICjO9G/view?usp=sharing)
+[](https://drive.google.com/file/d/1XSV0mzGiehHuYSqTZaEDTRngJuICjO9G/view?usp=sharing)
 
 # bloc-jams-jquery
 A starter project for Bloc's jQuery-driven music player app
