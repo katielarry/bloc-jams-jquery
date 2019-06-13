@@ -1,5 +1,5 @@
 
-![test](https://drive.google.com/file/d/1XSV0mzGiehHuYSqTZaEDTRngJuICjO9G/view)
+![test](https://github.com/katielarry/bloc-jams-jquery/blob/master/assets/images/bloc_jams_logo.png)
 
 # bloc-jams-jquery
 A starter project for Bloc's jQuery-driven music player app
